@@ -1,0 +1,4 @@
+bs4==0.0.1
+pyfiglet==0.8.post1
+requests==2.26.0
+Wappalyzer==4.0.0
